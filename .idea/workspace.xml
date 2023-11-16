@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="데이터 확인용 commit">
-      <change afterPath="$PROJECT_DIR$/Caffetine_morality_preprocessing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Alzheimer_disease.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/BMI.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/CVD.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Diabetes_mellitus.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Heart_diseases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Kidney_diseases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Malignant_neoplasms.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/age.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/all-cause.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="Preprocessing Ailments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aliments_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Aliments_Preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/13100196.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset_Aliments/13100196.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aliments_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ailments/Aliments_Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset_Aliments/13100196.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ailments/Dataset_Aliments/13100196.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset_Aliments/13100196_preprocessed.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +49,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="데이터 확인용 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="데이터 확인용 commit" />
+    <MESSAGE value="Preprocessing Ailments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preprocessing Ailments" />
   </component>
 </project>
