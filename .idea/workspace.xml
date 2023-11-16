@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="데이터 확인용 commit">
+      <change afterPath="$PROJECT_DIR$/Caffetine_morality_preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Alzheimer_disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/BMI.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/CVD.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Diabetes_mellitus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Heart_diseases.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Kidney_diseases.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/Malignant_neoplasms.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/age.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Caffeine_Morality/all-cause.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aliments_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Aliments_Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/13100196.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset_Aliments/13100196.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YAf5GayS8Ti5TjjOt5r2fBN6aE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dataset_Caffeine_Morality" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="데이터 확인용 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="데이터 확인용 commit" />
   </component>
 </project>
