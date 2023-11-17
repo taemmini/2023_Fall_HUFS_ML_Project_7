@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="Preprocessing Ailments">
+    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ailments/Ailments_Logistic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aliments_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ailments/Aliments_Preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset_Aliments/13100196.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ailments/Dataset_Aliments/13100196.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset_Aliments/13100196_preprocessed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ailments/Aliments_Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ailments/Aliments_Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ailments/Dataset_Aliments/13100196.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ailments/Dataset_Ailments/raw_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ailments/Dataset_Aliments/13100196_preprocessed.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Caffeine_Morality" />
+      <recent name="$PROJECT_DIR$/Ailments" />
       <recent name="$PROJECT_DIR$/Dataset_Caffeine_Morality" />
     </key>
   </component>
@@ -50,6 +53,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="데이터 확인용 commit" />
     <MESSAGE value="Preprocessing Ailments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Preprocessing Ailments" />
+    <MESSAGE value="Ailments 전처리, 폴더 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ailments 전처리, 폴더 정리" />
   </component>
 </project>
