@@ -1,0 +1,7 @@
+# numpy 배열 파일들
+Datasets_Captcha/Captcha_greyscaled.npy
+Datasets_Captcha/Captcha_labels.npy
+Datasets_Captcha/Captcha_pca.npy
+
+# label
+Datasets_Captcha/Captcha_labels.csv
