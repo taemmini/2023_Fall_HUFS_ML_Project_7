@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="이미지 전처리(PCA까지)">
+    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="1차 모델링, 인간의 관점과 유사하게">
+      <change afterPath="$PROJECT_DIR$/CAPTCHA_CRNN_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRNN_ver2.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Datasets_Captcha/Captcha_greyscaled.npy" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Datasets_Captcha/Captcha_images.npy" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Datasets_Captcha/Captcha_pca.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modeling_Human_Perspective.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/oracle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0000/trial.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0001/trial.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0002/trial.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/tuner0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Depression Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Depression Analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preprocessing_CAPCHA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Preprocessing_CAPCHA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modeling_Human_Perspective.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +80,7 @@
     <MESSAGE value="Frequency 빈도 정규화" />
     <MESSAGE value="캡챠 이미지 업로드 및 레이블" />
     <MESSAGE value="이미지 전처리(PCA까지)" />
-    <option name="LAST_COMMIT_MESSAGE" value="이미지 전처리(PCA까지)" />
+    <MESSAGE value="1차 모델링, 인간의 관점과 유사하게" />
+    <option name="LAST_COMMIT_MESSAGE" value="1차 모델링, 인간의 관점과 유사하게" />
   </component>
 </project>
