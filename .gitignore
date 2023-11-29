@@ -5,10 +5,9 @@ Captcha_CRNN_model(Dataset_C,Batch=32,unNormalized,LR=0.01).h5
 Captcha_CRNN_model(Dataset_C,Batch=32,Normalized,LR=0.01).h5
 
 # directories
-Captcha_2
-Datasets_Captcha
-my_dir
+Dataset_C
+Dataset_A
 
 # notebooks
-Naver_Crawling.ipynb
+NaverCaptcha.ipynb
 
