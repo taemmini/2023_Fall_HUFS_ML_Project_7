@@ -5,8 +5,7 @@ Captcha_CRNN_model(Dataset_C,Batch=32,unNormalized,LR=0.01).h5
 Captcha_CRNN_model(Dataset_C,Batch=32,Normalized,LR=0.01).h5
 
 # directories
-Captcha_2
-Dataset_A
+Dataset_C
 my_dir
 
 # notebooks
