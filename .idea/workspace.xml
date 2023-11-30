@@ -5,110 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="Gitignore 정리">
-      <change afterPath="$PROJECT_DIR$/CRNN_Test_Dataset_C.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets_Captcha/11_evcb2f.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets_Captcha/31_u66umg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAPTCHA_CRNN_Test(Dataset_C,batch_size=32,unnormalized,lr=0.01).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CAPTCHA_CRNN_model(Dataset_C,batch_size=32,unnormalized,lr=0.001).h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CAPTCHA_CRNN_model.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CAPTCHA_CRNN_model_1.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRNN_TESTED.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRNN_ver2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1060_VVZMB2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1060_vvzmb2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1063_BSMGPV.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1063_bsmgpv.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1152_XSHAFH.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1152_xshafh.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1168_R2AGFS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1168_r2agfs.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/11_evce2f.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1309_DTMFUM.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1309_dtmfum.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1325_ARRUFK.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1325_arrufk.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1355_PPRFAG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1355_pprfag.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1373_2RG6UB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1373_2rg6ub.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1404_DTKFBF.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1404_dtkfbf.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1427_H2GMPD.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1427_h2gmpd.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1428_BMVFFC.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1428_bmvffc.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1436_VREFP6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1436_vrefp6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1444_CXTFXU.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1444_cxtfxu.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1635_DTMSHZ.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1635_dtmshz.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/170_FBGNPT.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/170_fbgnpt.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/1922_MKGVK6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/1922_mkgvk6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/215_TRFHBH.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/215_trfhbh.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/248_MKGVK6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/248_mkgvk6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/269_RVNVKA.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/269_rvnvka.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/286_MRGKHV.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/286_mrgkhv.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/317_G2KESR.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/317_g2kesr.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/31_uggumg.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/3342_UFTFSV.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/3342_uftfsv.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/352_NVPPNR.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/352_nvppnr.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/3973_KKXZHN.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/3973_kkxzhn.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/4183_PZKDFE.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/4183_pzkdfe.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/424_CNHE6H.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/424_cnhe6h.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/438_G6GRMG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/438_g6grmg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/4650_ZCCB6M.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/4650_zccb6m.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/4657_6KTUFB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/4657_6ktufb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/481_XNNFZG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/481_xnnfzg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5428_DD2HBU.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5428_dd2hbu.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/542_PBMXTB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/542_pbmxtb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5438_FSNDN6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5438_fsndn6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5479_ZMFPKV.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5479_zmfpkv.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5484_UNHCUE.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5484_unhcue.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/554_HGFZZX.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/554_hgfzzx.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5747_GCC2HE.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5747_gcc2he.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5769_HRCFEE.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5769_hrcfee.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/5922_NFZUXB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/5922_nfzuxb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/600_DGXFSG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/600_dgxfsg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/604_XUHTTF.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/604_xuhttf.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6384_VMMNSK.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6384_vmmnsk.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6411_HS66UP.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6411_hs66up.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/651_U6MGB6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/651_u6mgb6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/654_KBMZF2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/654_kbmzf2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/665_UFGPAS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/665_ufgpas.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6692_FX2CNH.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6692_fx2cnh.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6754_MVMBAD.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6754_mvmbad.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6841_ZCCB6M.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6841_zccb6m.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6943_XFPNDN.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6943_xfpndn.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/6986_FXFGFD.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/6986_fxfgfd.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7019_XPVHFS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7019_xpvhfs.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7121_VMMNSK.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7121_vmmnsk.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7228_DFSMSF.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7228_dfsmsf.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7350_ZvDFVS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7350_zvdfvs.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7558_FSNDN6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7558_fsndn6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/760_TFSXKD.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/760_tfsxkd.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7643_ATRCSB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7643_atrcsb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7761_PZKDFE.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7761_pzkdfe.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7859_UGC2TT.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7859_ugc2tt.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/7966_6T2SFF.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/7966_6t2sff.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8011_RHG62A.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8011_rhg62a.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8101_VXAA2U.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8101_vxaa2u.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8119_FFA6EG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8119_ffa6eg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/811_KNFPFB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/811_knfpfb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/824_ZMSBEG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/824_zmsbeg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8263_6KTUFB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8263_6ktufb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8290_GKX2KT.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8290_gkx2kt.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8317_FPSGAP.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8317_fpsgap.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/836_AFG6VH.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/836_afg6vh.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/844_PPESH6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/844_ppesh6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8550_FZEFEN.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8550_fzefen.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8561_CTUEFK.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8561_ctuefk.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8636_EGGRP2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8636_eggrp2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8761_T6HEZB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8761_t6hezb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8823_VXAA2U.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8823_vxaa2u.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8950_TAUEMV.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8950_tauemv.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/897_UR6FMS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/897_ur6fms.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/8985_ARVUMU.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/8985_arvumu.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/9039_FPSGAP.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/9039_fpsgap.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/927_NCGVSF.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/927_ncgvsf.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/931_EAVNAA.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/931_eavnaa.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/9369_6T2SFF.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/9369_6t2sff.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/937_EUPCPG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/937_eupcpg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/951_KUNFCB.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/951_kunfcb.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/9870_VNUGFK.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/9870_vnugfk.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/9946_UGC2TT.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/9946_ugc2tt.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets_Captcha/9985_MDGGKX.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets_Captcha/9985_mdggkx.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_dir/ocr_model_tuning/oracle.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0000/trial.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0001/trial.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0002/trial.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_dir/ocr_model_tuning/tuner0.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -140,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taemmini/Projects/HUFS_ML/Datasets_Captcha&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "/Users/taemmini/Projects/HUFS_ML",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Datasets_Captcha" />
