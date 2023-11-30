@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="1차 모델링, 인간의 관점과 유사하게">
-      <change afterPath="$PROJECT_DIR$/CAPTCHA_CRNN_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRNN_ver2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets_Captcha/Captcha_greyscaled.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets_Captcha/Captcha_images.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datasets_Captcha/Captcha_pca.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/oracle.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0000/trial.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0001/trial.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/trial_0002/trial.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_dir/ocr_model_tuning/tuner0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Depression Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Depression Analysis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modeling_Human_Perspective.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="날라간 파일 정리(3)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +19,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,19 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taemmini/Projects/HUFS_ML/Datasets_Captcha&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "/Users/taemmini/Projects/HUFS_ML",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Datasets_Captcha" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -71,6 +59,17 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="데이터 확인용 commit" />
@@ -81,6 +80,8 @@
     <MESSAGE value="캡챠 이미지 업로드 및 레이블" />
     <MESSAGE value="이미지 전처리(PCA까지)" />
     <MESSAGE value="1차 모델링, 인간의 관점과 유사하게" />
-    <option name="LAST_COMMIT_MESSAGE" value="1차 모델링, 인간의 관점과 유사하게" />
+    <MESSAGE value="Gitignore 정리" />
+    <MESSAGE value="날라간 파일 정리(3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="날라간 파일 정리(3)" />
   </component>
 </project>
