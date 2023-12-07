@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="파일 정리">
+    <list default="true" id="610739bd-95b7-4272-a765-235d00fa5a75" name="Changes" comment="ignore정리">
+      <change afterPath="$PROJECT_DIR$/5char_test/2kh0i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/3othj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/cdplh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/cktva.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/dqdpa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/ffwln.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/k0osr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/n94vb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/oyixx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/plncr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/pvixh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/r89ll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/r8h2m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/s0otr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5char_test/vdxyn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model_application.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_classification.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAPTCHA_CRNN_Test(Dataset_C,batch_size=32,normalized,lr=0.01).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CAPTCHA_CRNN_Test(Dataset_C,batch_size=32,normalized,lr=0.01).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +73,7 @@
       <recent name="$PROJECT_DIR$/Datasets_Captcha" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Caffeine_Morality" />
       <recent name="$PROJECT_DIR$/Ailments" />
       <recent name="$PROJECT_DIR$/Dataset_Caffeine_Morality" />
@@ -86,7 +105,8 @@
     <MESSAGE value="날라간 파일 정리" />
     <MESSAGE value="Revert &quot;Gitignore 정리&quot;&#10;&#10;This reverts commit f34c6a86" />
     <MESSAGE value="파일 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="파일 정리" />
+    <MESSAGE value="ignore정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore정리" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
